@@ -5,7 +5,7 @@ title: 'First'
 categories: ["Tech", "Hugo"]
 tags: ["blogging", "static sites"]
 cover:
-  image: "/images/17-Caramel.jpg"
+  image: "/images/LFbirmingham-4600.jpg"
   alt: "<alt text>"
   caption: "Caption here"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
@@ -15,4 +15,4 @@ cover:
 
 Dolore nulla veniam mollit fugiat velit nisi non dolore anim officia labore cupidatat veniam esse lorem ea in tempor excepteur exercitation lorem et mollit cillum ex ad ut lorem nulla consectetur ea elit id nisi
 
-![alt text](/images/VA-Matt-Anthracite.jpg)
+<!-- ![alt text](/images/VA-Matt-Anthracite.jpg) -->
