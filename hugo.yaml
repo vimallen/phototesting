@@ -2,7 +2,6 @@ baseURL: "https://examplesite.com/"
 title: Photos Test
 pagination.pagerSize: 5
 theme: PaperMod
-
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -19,7 +18,7 @@ params:
   title: ExampleSite
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Dave Allen
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -138,3 +137,7 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+taxonomies:
+  category: categories
+  tag: tags

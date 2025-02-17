@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on Photos Test</title>
+    <link>http://localhost:1313/categories/hugo/</link>
+    <description>Recent content in Hugo on Photos Test</description>
+    <image>
+      <title>Photos Test</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Feb 2025 11:49:46 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Mon, 17 Feb 2025 11:49:46 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;h2 id=&#34;this-is-the-first-post&#34;&gt;This is the first post&lt;/h2&gt;
+&lt;p&gt;Dolore nulla veniam mollit fugiat velit nisi non dolore anim officia labore cupidatat veniam esse lorem ea in tempor excepteur exercitation lorem et mollit cillum ex ad ut lorem nulla consectetur ea elit id nisi&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/VA-Matt-Anthracite.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,6 +2,8 @@
 date: '2025-02-17T11:49:46Z'
 draft: false
 title: 'First'
+categories: ["Tech", "Hugo"]
+tags: ["blogging", "static sites"]
 cover:
   image: "/images/17-Caramel.jpg"
   alt: "<alt text>"
