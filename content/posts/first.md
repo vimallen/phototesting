@@ -12,3 +12,5 @@ cover:
 ## This is the first post
 
 Dolore nulla veniam mollit fugiat velit nisi non dolore anim officia labore cupidatat veniam esse lorem ea in tempor excepteur exercitation lorem et mollit cillum ex ad ut lorem nulla consectetur ea elit id nisi
+
+![alt text](/images/VA-Matt-Anthracite.jpg)
