@@ -1,7 +1,7 @@
 ---
 date: '2025-02-17T11:49:46Z'
 draft: false
-title: 'Ilkey'
+title: 'Ilkley'
 categories: ["Tech", "Hugo"]
 tags: ["blogging", "static sites"]
 cover:

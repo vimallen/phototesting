@@ -1,5 +1,5 @@
 ---
-date: '2025-02-19T12:22:06Z'
+date: '2022-04-15T14:30:00-07:00'
 draft: false
 title: 'Willow'
 categories: ["", ""]
@@ -10,4 +10,4 @@ cover:
   caption: "Caption here"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
-IMD’s design for Willow Telford, part of the Parogon Group’s expanding portfolio, exemplifies how a thoughtfully executed concept can transform a restaurant into a sanctuary. This project successfully reimagines a former Asian restaurant into a Mediterranean-inspired retreat that feels as though it’s been transported from coastal Europe.
+IMD’s design for Willow Telford, part of the Paragon Group’s expanding portfolio, exemplifies how a thoughtfully executed concept can transform a restaurant into a sanctuary. This project successfully reimagines a former Asian restaurant into a Mediterranean-inspired retreat that feels as though it’s been transported from coastal Europe.
