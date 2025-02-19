@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Feb 2025 20:44:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 12:22:06 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>http://localhost:1313/posts/second/</link>
+      <pubDate>Wed, 19 Feb 2025 12:22:06 +0000</pubDate>
+      <guid>http://localhost:1313/posts/second/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testpage</title>
+      <link>http://localhost:1313/testpage/</link>
+      <pubDate>Wed, 19 Feb 2025 08:28:25 +0000</pubDate>
+      <guid>http://localhost:1313/testpage/</guid>
+      <description></description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
