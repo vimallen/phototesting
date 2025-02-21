@@ -14,9 +14,6 @@
     <loc>http://localhost:1313/posts/mulcaster/</loc>
     <lastmod>2025-02-19T15:24:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/second/</loc>
-    <lastmod>2025-02-19T12:22:06+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/testpage/</loc>
     <lastmod>2025-02-19T08:28:25+00:00</lastmod>
   </url><url>
@@ -43,6 +40,9 @@
   </url><url>
     <loc>http://localhost:1313/categories/tech/</loc>
     <lastmod>2025-02-17T11:49:46+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/second/</loc>
+    <lastmod>2022-04-15T14:30:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url>
