@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://github.io/vimallen/phototesting/"
 title: Photos Test
 pagination.pagerSize: 5
 theme: PaperMod
