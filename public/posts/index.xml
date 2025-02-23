@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Photos Test</title>
-    <link>https://examplesite.com/posts/</link>
+    <link>https://github.io/vimallen/phototesting/posts/</link>
     <description>Recent content in Posts on Photos Test</description>
     <image>
       <title>Photos Test</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://github.io/vimallen/phototesting/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://github.io/vimallen/phototesting/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <lastBuildDate>Wed, 19 Feb 2025 15:39:11 +0000</lastBuildDate>
-    <atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.io/vimallen/phototesting/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Locke</title>
-      <link>https://examplesite.com/posts/locke/</link>
+      <link>https://github.io/vimallen/phototesting/posts/locke/</link>
       <pubDate>Wed, 19 Feb 2025 15:39:11 +0000</pubDate>
-      <guid>https://examplesite.com/posts/locke/</guid>
+      <guid>https://github.io/vimallen/phototesting/posts/locke/</guid>
       <description>&lt;p&gt;Situated in central Kensington, Ember Locke typifies contemporary luxury with a hotel experience that blends contemporary luxury with rich, layered interiors. Designed by Atelier Ochre in collaboration with House of Dre, the hotel’s design transports guests into an opulent yet inviting space, brimming with texture, colour, and artistic detail.&lt;/p&gt;
 &lt;p&gt;The interiors at Ember Locke are a masterclass in materiality, featuring recycled velvets and boucle fabrics, handcrafted wooden details, and jewel-toned surfaces. Deep teal walls, warm wood panelling, and tactile upholstery create a moody yet welcoming atmosphere, enhanced by the interplay of soft drapery, vintage-inspired lighting, and sculptural furniture pieces. A host of local artists’ work is also displayed throughout the property.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mulcaster</title>
-      <link>https://examplesite.com/posts/mulcaster/</link>
+      <link>https://github.io/vimallen/phototesting/posts/mulcaster/</link>
       <pubDate>Wed, 19 Feb 2025 15:24:34 +0000</pubDate>
-      <guid>https://examplesite.com/posts/mulcaster/</guid>
-      <description>&lt;figure&gt;&lt;a href=&#34;https://examplesite.com/images/mulcaster-full.jpg&#34; target=&#34;_blank&#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/images/mulcaster-thumb.jpg&#34;/&gt; &lt;/a&gt;
+      <guid>https://github.io/vimallen/phototesting/posts/mulcaster/</guid>
+      <description>&lt;figure&gt;&lt;a href=&#34;https://github.io/vimallen/phototesting/images/mulcaster-full.jpg&#34; target=&#34;_blank&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://github.io/vimallen/phototesting/images/mulcaster-thumb.jpg&#34;/&gt; &lt;/a&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Situated in the heart of St. Helier, Jersey, The Mulcaster &amp;amp; 1823 Grill redefines dining with a blend of traditional charm and modern sophistication. Spanning two floors, this venue offers two distinct atmospheres: one for upmarket drinking, the other for fine dining.&lt;/p&gt;
@@ -35,17 +35,17 @@
     </item>
     <item>
       <title>Ilkley</title>
-      <link>https://examplesite.com/posts/first/</link>
+      <link>https://github.io/vimallen/phototesting/posts/first/</link>
       <pubDate>Mon, 17 Feb 2025 11:49:46 +0000</pubDate>
-      <guid>https://examplesite.com/posts/first/</guid>
+      <guid>https://github.io/vimallen/phototesting/posts/first/</guid>
       <description>&lt;h2 id=&#34;this-is-the-first-post&#34;&gt;This is the first post&lt;/h2&gt;
 &lt;p&gt;Ilkley Lawn Tennis Club recently unveiled its revamped SERVE Café Bar, a social and dining space designed to enhance the member experience. With stunning views of the outdoor courts and Ilkley Moor, SERVE is the perfect venue for unwinding, socializing, and hosting events. From the gallery windows to the outdoor terrace, the space combines functionality with style, creating an inviting environment for members and guests alike. The furniture selection played a pivotal role in achieving this transformation, balancing comfort, durability, and aesthetic appeal.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Willow</title>
-      <link>https://examplesite.com/posts/second/</link>
+      <link>https://github.io/vimallen/phototesting/posts/second/</link>
       <pubDate>Fri, 15 Apr 2022 14:30:00 -0700</pubDate>
-      <guid>https://examplesite.com/posts/second/</guid>
+      <guid>https://github.io/vimallen/phototesting/posts/second/</guid>
       <description>&lt;p&gt;IMD’s design for Willow Telford, part of the Paragon Group’s expanding portfolio, exemplifies how a thoughtfully executed concept can transform a restaurant into a sanctuary. This project successfully reimagines a former Asian restaurant into a Mediterranean-inspired retreat that feels as though it’s been transported from coastal Europe.&lt;/p&gt;</description>
     </item>
   </channel>

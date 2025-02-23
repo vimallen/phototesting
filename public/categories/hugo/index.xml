@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo on Photos Test</title>
-    <link>https://examplesite.com/categories/hugo/</link>
+    <link>https://github.io/vimallen/phototesting/categories/hugo/</link>
     <description>Recent content in Hugo on Photos Test</description>
     <image>
       <title>Photos Test</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://github.io/vimallen/phototesting/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://github.io/vimallen/phototesting/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Feb 2025 11:49:46 +0000</lastBuildDate>
-    <atom:link href="https://examplesite.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.io/vimallen/phototesting/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ilkley</title>
-      <link>https://examplesite.com/posts/first/</link>
+      <link>https://github.io/vimallen/phototesting/posts/first/</link>
       <pubDate>Mon, 17 Feb 2025 11:49:46 +0000</pubDate>
-      <guid>https://examplesite.com/posts/first/</guid>
+      <guid>https://github.io/vimallen/phototesting/posts/first/</guid>
       <description>&lt;h2 id=&#34;this-is-the-first-post&#34;&gt;This is the first post&lt;/h2&gt;
 &lt;p&gt;Ilkley Lawn Tennis Club recently unveiled its revamped SERVE Café Bar, a social and dining space designed to enhance the member experience. With stunning views of the outdoor courts and Ilkley Moor, SERVE is the perfect venue for unwinding, socializing, and hosting events. From the gallery windows to the outdoor terrace, the space combines functionality with style, creating an inviting environment for members and guests alike. The furniture selection played a pivotal role in achieving this transformation, balancing comfort, durability, and aesthetic appeal.&lt;/p&gt;</description>
     </item>
