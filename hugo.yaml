@@ -9,6 +9,9 @@ buildExpired: false
 
 # googleAnalytics: UA-123-45
 
+permissions:
+  contents: write #add this line
+
 minify:
   disableXML: true
   minifyOutput: true
