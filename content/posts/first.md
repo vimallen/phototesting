@@ -14,3 +14,5 @@ cover:
 ## This is the first post
 
 Ilkley Lawn Tennis Club recently unveiled its revamped SERVE Café Bar, a social and dining space designed to enhance the member experience. With stunning views of the outdoor courts and Ilkley Moor, SERVE is the perfect venue for unwinding, socializing, and hosting events. From the gallery windows to the outdoor terrace, the space combines functionality with style, creating an inviting environment for members and guests alike. The furniture selection played a pivotal role in achieving this transformation, balancing comfort, durability, and aesthetic appeal.
+
+Add some text for testing
