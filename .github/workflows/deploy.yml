@@ -38,6 +38,15 @@ jobs:
         with:
           # Upload entire repository
           path: '.'
+
+      - name: Test Git Write
+        run: |
+           git config --global user.name "Test Bot"
+           git config --global user.email "testbot@example.com"
+           echo "test" > test.txt
+           git add test.txt
+           git commit -m "Test write access"
+           git push origin main
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
